@@ -3,4 +3,4 @@
 	url = https://github.com/ValLugovaia/task-tracker-frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:tasktrackerpracticum/backend.git
+	url = https://github.com/tasktrackerpracticum/backend.git
